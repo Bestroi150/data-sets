@@ -22,4 +22,4 @@ Use this dataset for frequency analysis, statistical modeling, or probability st
 
 ## License
 
-Please check the LICENSE file.
+Please check the `LICENSE` file.
