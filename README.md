@@ -14,7 +14,7 @@ The dataset contains sample frequency analysis data with the following columns:
 - **PickedFrequency**: Individual frequency values ranging from 1116 to 1265
 - **Frequency**: Cumulative frequency values ranging from 10887 to 44641
 
-This is sample data that appears to be statistical frequency data, possibly from lottery number analysis or sampling distributions.
+This is sample data that appears that can be used for statistical frequency data for number analysis and sampling distributions.
 
 ## Usage
 
